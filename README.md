@@ -9,4 +9,6 @@ Follow the instructions to run the program:-
 
 ** NOTE: If you are a developer and interested in the code and the procedure of development, I would recommend that you move to basefiles directory and view the files rather than the modified dummies on main directory.
 
+** For detailed explanation go to the readme.docs
+
 THANKS !!
